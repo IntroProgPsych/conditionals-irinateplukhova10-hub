@@ -30,3 +30,11 @@
 
 # Write your code here:
 
+number1 = int (input ("Please write a number"))
+number2 = int (input ("Please write a number"))
+operation = input("Please suggest the operation")
+if operation == "sum":
+    print (number1 + number2)
+elif operation == "substraction":
+      print (number1 - number2)
+  
