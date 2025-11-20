@@ -9,3 +9,8 @@
 # Orwell
 
 # Write your code here:
+number=int (input("Please write a number from 1980 till 1990"))
+if  number == 1984:
+    print ("Orwell")
+else:
+     print ("You are not win")    
